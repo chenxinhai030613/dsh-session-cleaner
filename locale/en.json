@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Conversation Cleanup",
+    "description": "Adds a Delete action (menu item and hover button) to sidebar conversations — archived and forked ones included — and a Conversation cleanup section in Settings with a one-click Delete all archived action. Conversations that are open but idle are released and deleted immediately; conversations with running work are not deleted."
+  }
+}

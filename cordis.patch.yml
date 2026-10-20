@@ -1,0 +1,6 @@
+# dsh-session-cleaner bundle patch: mounts the Host row that serves the fenced
+# deletion API. The browser half is discovered from package.json `dsh.client`
+# and served by the Web client.
+- insert:
+    - id: session-cleaner
+      name: 'dsh-session-cleaner'
